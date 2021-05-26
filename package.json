@@ -1,0 +1,22 @@
+{
+  "name": "hata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endblack/megakk.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "jj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endblack/megakk/issues"
+  },
+  "homepage": "https://github.com/endblack/megakk#readme"
+}
